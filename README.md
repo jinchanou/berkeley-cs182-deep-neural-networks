@@ -4,6 +4,8 @@ This repository contains my course work for **CS182/282A – Deep Neural Network
 
 UC Berkeley's CS182/282A offers a rigorous deep dive into the mathematical and practical foundations of deep learning. The curriculum spans from advanced optimization and scaling theory (muP, MuON, and implicit regularization) to architectures including CNNs, GNNs, Transformers, and State-Space Models (SSMs). It culminates in modern LLM frontiers, covering Parameter-Efficient Fine-Tuning (LoRA), In-context Learning, and Generative paradigms (Diffusion), providing a comprehensive toolkit for understanding and scaling frontier AI models.
 
+Course website: https://berkeley-cs182.github.io/
+
 ---
 
 ## 📚 Contents
